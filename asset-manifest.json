@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dewais-test/static/css/main.e5603553.css",
-    "main.js": "/dewais-test/static/js/main.da8fae0f.js",
+    "main.js": "/dewais-test/static/js/main.1e69ade9.js",
     "index.html": "/dewais-test/index.html",
     "main.e5603553.css.map": "/dewais-test/static/css/main.e5603553.css.map",
-    "main.da8fae0f.js.map": "/dewais-test/static/js/main.da8fae0f.js.map"
+    "main.1e69ade9.js.map": "/dewais-test/static/js/main.1e69ade9.js.map"
   },
   "entrypoints": [
     "static/css/main.e5603553.css",
-    "static/js/main.da8fae0f.js"
+    "static/js/main.1e69ade9.js"
   ]
 }
