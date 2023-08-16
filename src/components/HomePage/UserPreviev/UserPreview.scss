@@ -1,0 +1,13 @@
+@import "../../../styles/vars";
+@import "../../../styles/mixins";
+
+.user-preview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-preview__img {
+  @include userImage;
+}
