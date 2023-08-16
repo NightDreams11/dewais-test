@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NightDreams11/dewais-test/static/css/main.e5603553.css",
-    "main.js": "/NightDreams11/dewais-test/static/js/main.35150f4d.js",
-    "index.html": "/NightDreams11/dewais-test/index.html",
-    "main.e5603553.css.map": "/NightDreams11/dewais-test/static/css/main.e5603553.css.map",
-    "main.35150f4d.js.map": "/NightDreams11/dewais-test/static/js/main.35150f4d.js.map"
+    "main.css": "/dewais-test/static/css/main.e5603553.css",
+    "main.js": "/dewais-test/static/js/main.35150f4d.js",
+    "index.html": "/dewais-test/index.html",
+    "main.e5603553.css.map": "/dewais-test/static/css/main.e5603553.css.map",
+    "main.35150f4d.js.map": "/dewais-test/static/js/main.35150f4d.js.map"
   },
   "entrypoints": [
     "static/css/main.e5603553.css",
