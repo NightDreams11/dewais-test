@@ -1,0 +1,22 @@
+@import "../../../styles/vars";
+@import "../../../styles/mixins";
+
+.user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  padding-top: 30px;
+  font-family: $font-primary;
+}
+
+.user__img {
+  @include userImage;
+}
+
+@media (max-width: 400px) {
+  .user {
+    font-size: 13px;
+  }
+}

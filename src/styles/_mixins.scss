@@ -1,0 +1,10 @@
+@mixin container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@mixin userImage {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
